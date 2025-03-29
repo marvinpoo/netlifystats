@@ -3,9 +3,8 @@ import "@/app/globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata = {
-  title: "Netlify Dashboard",
-  description: "A dashboard for Netlify site statistics and deployments",
-    generator: 'v0.dev'
+  title: "NetlifyStats Dashboard",
+  description: "A dashboard for Netlify site statistics and deployments"
 }
 
 export default function RootLayout({

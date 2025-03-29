@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 import { Frame } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "Netlify Dashboard",
+  title: "NetlifyStats Dashboard",
   description: "Monitor your Netlify site deployments, builds, and statistics",
 }
 
