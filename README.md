@@ -1,4 +1,5 @@
 # NetlifyStats Dashboard
+[![Netlify Status](https://api.netlify.com/api/v1/badges/61259878-3ddf-4bdd-8c71-4bd2e178fd58/deploy-status)](https://app.netlify.com/sites/netlifystats/deploys)
 
 ## Overview
 
